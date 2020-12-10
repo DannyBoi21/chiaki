@@ -53,7 +53,7 @@ this file contains sensitive data. (do not share this file)
 # required: lan PS4 IP address
 # IP from PS4 Settings > System > system information
 host_ip = X.X.X.X
-# required: sony oline id (login)
+# required: sony online id (login)
 psn_online_id = ps4_online_id
 # required (PS4>7.0 Only): https://github.com/thestr4ng3r/chiaki#obtaining-your-psn-accountid
 psn_account_id = ps4_base64_account_id
